@@ -1,3 +1,3 @@
 Attempting to deploy from account 0x4cdD9193a02d4D7c2cF77884FEAFA64A01EEf1aa
-Contract deployed to 0x69472C94C18B7685dFABf56C6129C6dab122Dd2D
+Contract deployed to 0x69EBaBBd212F0c8ec317944C9648C1198e73d126
 [{"constant":true,"inputs":[],"name":"getDeployedCampaigns","outputs":[{"name":"","type":"address[]"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"name":"minimun","type":"uint256"}],"name":"createCampaign","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"deployedCompaigns","outputs":[{"name":"","type":"address"}],"payable":false,"stateMutability":"view","type":"function"}]
