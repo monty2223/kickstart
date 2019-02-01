@@ -1,0 +1,6 @@
+'use strict';
+
+var routes = require('next-routes')();
+
+module.export = routes;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInJvdXRlcy5qcyJdLCJuYW1lcyI6WyJyb3V0ZXMiLCJyZXF1aXJlIiwibW9kdWxlIiwiZXhwb3J0Il0sIm1hcHBpbmdzIjoiOztBQUFBLElBQU0sU0FBUyxBQUFmOztBQUVBLE9BQU8sQUFBUCxTQUFnQixBQUFoQiIsImZpbGUiOiJyb3V0ZXMuanMiLCJzb3VyY2VSb290IjoiQzovVXNlcnMvbW9udG8vQ1VSU08gVURFTVkva2lja3N0YXJ0In0=
